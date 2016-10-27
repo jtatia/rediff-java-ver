@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=void\ delay1()
+comment1.target=void\ delay()
+comment2.params=user\ s1\ s2\ s3\ s4\ s5\ s6\ s7\ pass\ sender
+comment2.target=void\ account(String,\ String,\ String,\ String,\ String,\ String,\ String,\ String,\ String,\ String)
+comment3.params=user\ s1\ s2\ s3\ s4\ s5\ s6\ s7\ pass\ send
+comment3.target=void\ npinbox(String,\ String,\ String,\ String,\ String,\ String,\ String,\ String,\ String,\ String)
+comment4.params=user\ pass\ s4
+comment4.target=void\ write(String,\ String,\ String)
+comment5.params=a\ s\ sub\ mess\ ouser\ b\ sender
+comment5.target=void\ main(String,\ String,\ String,\ String,\ String,\ String,\ String)
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=void\ delay1()
+comment1.target=void\ delay()
+comment2.params=user\ pass
+comment2.target=void\ main(String,\ String)
+numComments=3
